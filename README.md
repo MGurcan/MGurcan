@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Gürcan</h1>
 <h3 align="center">Software Engineer at SimBT</h3>
-<h3 align="center">Computer Engineering student at TOBB ETU(4th grade)</h3>
 <h3 align="center">You can check a teeny tiny football quiz(https://www.maniacguess.com)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
