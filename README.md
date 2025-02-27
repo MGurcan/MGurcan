@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgurcan" alt="mgurcan" /></a> </p>
 
-- 🌱 I’m currently learning **anything related to Game Development**
-
 - 📫 How to reach me **mehmetgurcaneducation@gmail.com**
 
 - ⚡ Fun fact **Humor and good communication are the reason why I hold on to life.**
